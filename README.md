@@ -1,0 +1,2 @@
+# mapager
+The Mapager Project
